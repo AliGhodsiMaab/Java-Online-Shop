@@ -69,6 +69,8 @@ The application prompts for inputs and guides the user through the process of sh
 - Make sure to **read the PDF files** for full documentation, structure, and feature explanations  
 - All inputs and outputs happen in the **console**, and the application does **not** use a graphical UI
 - This project is intended for **educational purposes**, simulating core functionalities of an e-commerce platform
+- **Important**: Before running the project, make sure to search for the keyword `"save"` using `Ctrl + F`,  
+  and update the **file paths** according to your own system or preferred directory structure.
 
 ---
 
