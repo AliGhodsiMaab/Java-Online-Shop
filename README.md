@@ -65,6 +65,7 @@ The application prompts for inputs and guides the user through the process of sh
 
 ## Notes
 
+- Some keywords and labels in the project use *Finglish* (Persian written with Latin alphabet). For example, instead of "login", the word "lagin" is used.
 - Make sure to **read the PDF files** for full documentation, structure, and feature explanations  
 - All inputs and outputs happen in the **console**, and the application does **not** use a graphical UI
 - This project is intended for **educational purposes**, simulating core functionalities of an e-commerce platform
